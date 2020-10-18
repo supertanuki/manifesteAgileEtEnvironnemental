@@ -29,3 +29,9 @@
 10. La simplicité – l’art de maximiser la quantité de travail qu’on ne fait pas – est essentielle.
 11. Les meilleures architectures, les meilleures spécifications de besoins, et les meilleures conceptions émergent d’équipes auto-organisées.
 12. À intervalles réguliers, l’équipe réfléchit aux façons de devenir plus efficace, puis modifie son comportement et l’ajuste en conséquence.
+
+## Références
+
+* [Charte Numérique Responsable](https://charte.institutnr.org/)
+* [Agile Manifesto Principles](http://agilemanifesto.org/principles.html), en anglais
+* [Manifeste Agile](http://manifesteagile.fr/index.html), en français
