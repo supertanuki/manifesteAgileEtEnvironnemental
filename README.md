@@ -12,7 +12,7 @@
 8. Les processus agiles encouragent à respecter un rythme soutenable lors de la réalisation. Les commanditaires, les réalisateurs et les utilisateurs devraient pouvoir maintenir indéfiniment un rythme constant.
 9. Porter continuellement attention à l’excellence technique, à la qualité de la conception et aux impacts environnementaux.
 10. La simplicité – l’art de maximiser la quantité de travail qu’on ne fait pas – et la sobriété – la juste utilisation de ressources informatiques et énergétiques – sont essentielles.
-11. Les meilleures architectures, les meilleures spécifications de besoins, et les meilleures conceptions toujours en tenant compte de la sobriété émergent d’équipes auto-organisées et en veille par rapport aux anjeux environnementaux.
+11. Les meilleures architectures, les meilleures spécifications de besoins, et les meilleures conceptions toujours en tenant compte de la sobriété émergent d’équipes auto-organisées et en veille par rapport aux enjeux environnementaux.
 12. À intervalles réguliers, l’équipe réfléchit aux façons de devenir plus efficace et plus sobre, puis modifie son comportement et l’ajuste en conséquence.
 
 ## Manifeste Agile
